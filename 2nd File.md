@@ -14,3 +14,6 @@ _"If you please--draw me a sheep!"_
 |Sheep|Type|
 |---|---|
 |Icelandic Sheep|Black|
+|Merino|White|
+
+![download](https://user-images.githubusercontent.com/75452710/101982416-c94f1c80-3c99-11eb-9382-f360ccae89b2.jpg)
